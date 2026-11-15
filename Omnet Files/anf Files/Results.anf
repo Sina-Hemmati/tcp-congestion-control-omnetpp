@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<analysis version="2">
+    <inputs>
+        <input pattern="tcpstudy/results/General-#0.vec"/>
+        <input pattern="tcpstudy/results/Bandwidth1Mbps-#0.vec"/>
+        <input pattern="tcpstudy/results/Bandwidth10Mbps-#0.vec"/>
+    </inputs>
+    <charts/>
+</analysis>
